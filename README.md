@@ -1,4 +1,4 @@
-👋   Hi，I am a college student from Xi'an, Shaanxi.
+👋   Hi，I am a college student from Xi'an, Shanxi.
   
 🌱   I am now learning python, C language, web design related languages and so on.
   
